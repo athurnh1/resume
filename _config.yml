@@ -23,8 +23,7 @@ resume_contact_address:         "2713 Union Lake Trl"
 resume_header_contact_info:     "2713 Union Lake Trl, Northfield • 507-403-3177 • athurnh1@jhu.edu"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p> Hello! I am a student at Johns Hopkins studying chemical and biomolecular engineering. I am interested in drug delivery.</p>"
-This
+resume_header_intro: "<p> Hello! My name is Andrea and I am a Junior at Johns Hopkins studying chemical and biomolecular engineering. I am interested in drug delivery.</p>"
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
